@@ -21,6 +21,7 @@ Contains the kernel configuration, source code, and a custom kernel module. The 
 ### 2. `podman` Folder
 Includes scripts and configurations to set up a containerized environment for building and running the kernel and modules.
 
+
 **Note:** For setup instructions, see the `README.md` inside the `podman` folder.
 
 ---
@@ -29,6 +30,8 @@ Includes scripts and configurations to set up a containerized environment for bu
 Contains:
 - `vm`: The root filesystem used by the virtual machine to run the guest OS with the custom kernel. It also includes scripts to build, run, and connect to the VM.
 - `scripts`: Collection of scripts for testing and various use cases within the VM environment.
+- How to get a test click on the UPL in here to go to the readme file.
+  https://docs.google.com/document/d/1NSjGSNHCsohuYanu5782-zbl17Dh7eRZK4n0b8jmtN0/edit?usp=sharing
 
 ---
 
